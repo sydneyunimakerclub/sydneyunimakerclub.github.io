@@ -2,9 +2,8 @@
 title: Sydney Uni Maker Club
 email: greetings@sydneyunimaker.club
 description: > # this means to ignore newlines until "baseurl:"
-  We're a student run society that aim to recognise and foster informal projects for students
-  who want to expand their creativity in hands-on projects. We run workshops for members and 
-  consolidate working spaces and group projects to get them on their way to solidifying their imagination.
+  We're a student run society thats aimed at facilitating makerspaces and a 
+  social hub for people to get inspired for starting their own side projects. 
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.sydneyunimaker.club" # the base hostname & protocol for your site
