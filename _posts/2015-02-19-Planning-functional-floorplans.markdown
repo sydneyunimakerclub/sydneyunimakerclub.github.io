@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Planning functional floorplans"
-date:   2015-02-22
+date:   2015-02-19
 categories: Makerspace
 published: true
 ---
