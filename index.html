@@ -1,8 +1,33 @@
-<html>
-<head>
-</head>
-<body>
-Hello World
-Hello World! 
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Recent Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div class="post-list-heading">
+          <h1>
+            <span><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+          </h1>
+          {% unless post.categories.empty? %}
+            <i class="fa fa-tags"></i> 
+            {% for cat in post.categories %} <u>{{ cat }}</u> 
+              {% if forloop.last != true %} 
+              {% endif %} 
+            {% endfor %} 
+          {% endunless %}
+          <p>{{ post.content | strip_html | truncatewords:75}}</p>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
