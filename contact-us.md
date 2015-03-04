@@ -6,7 +6,7 @@ weight: 6
 
 For any enquiries:
 
-[greetings@sydneyunimaker.club](mailto:greetings@sydneyunimaker.club)
+[{{ site.email }}](mailto:{{ site.email }})
 
 To sign-up for updates, subscribe to one of the following:
 
