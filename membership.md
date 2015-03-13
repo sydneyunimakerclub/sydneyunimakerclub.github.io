@@ -8,7 +8,9 @@ weight: 3
 
 Makerspace: The Sydney Invention Studio
 ===========
-<!-- With partnership with the Sydney Invention Studio, on the ground floor of the Link Building in the engineering campus, the space is open to students to hack their own projects and use the Studio's resources and services under their [policy and guidelines][needs to be some documentation]. Services which the Studio provides at cost price are:
+With partnership with the Sydney Invention Studio, in room 203 of the Link Building in the engineering campus, the space is open to students to hack their own projects and use the Studio's resources and services under their policy and guidelines.
+
+<!--Services which the Studio provides at cost price are:
 
 * 3D Printing 
   * Deposition Printer
@@ -39,13 +41,11 @@ In addition to running our own projects, as part of the culture of making, we en
 How to sign up 
 ===============
 
-We will be taking memberships following our IGM in early March. 
+To hear about workshops you might be interested in:
 
 <p align="center" style="text-align:center; font-weight:bold;"> <span class="click-here"><a href="http://goo.gl/forms/MtVJsYBqod" target="_blank"> >> Sign up to the Mailing List << </a> </span></p>
 
-to hear about our IGM announcement date, time and location. 
-
-
+Show up to a workshop to sign up to be a member. Currently membership is free and you don't need an access card
 
 <!-- To be eligible as a full member:
 
