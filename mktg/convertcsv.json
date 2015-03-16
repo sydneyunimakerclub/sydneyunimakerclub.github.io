@@ -1,0 +1,353 @@
+[
+  {
+    "School":"CBE",
+    "Name":"Prof Fariba Dehghani",
+    "Title":"Prof",
+    "FirstName":"Fariba",
+    "Surname":"Dehghani",
+    "Discipline":"BIOENGINEERING",
+    "Keywords":"['tissue engineering','regenerative medicine']"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Doug Auld",
+    "Title":"Dr",
+    "FirstName":"Doug",
+    "Surname":"Auld",
+    "Discipline":"AEROSPACE",
+    "Keywords":"['Space Engineering']"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Peter Gibbens",
+    "Title":"Dr",
+    "FirstName":"Peter",
+    "Surname":"Gibbens",
+    "Discipline":"AEROSPACE",
+    "Keywords":"Flight Mechanics,Flight Testing,Control Theory,Unmanned Aerial Vehicles"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Liyong Tong",
+    "Title":"Prof",
+    "FirstName":"Liyong",
+    "Surname":"Tong",
+    "Discipline":"AEROSPACE",
+    "Keywords":"Computational and experimental analysis of composite and smart structures"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Gareth Vio",
+    "Title":"Dr",
+    "FirstName":"Gareth",
+    "Surname":"Vio",
+    "Discipline":"AEROSPACE",
+    "Keywords":"Non-linear Aeroelasticity, Non-linear Vibration, Non-linear System Identification, Gust Response, Aeroelastic Tailoring"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Dries Verstraete",
+    "Title":"Dr",
+    "FirstName":"Dries",
+    "Surname":"Verstraete",
+    "Discipline":"AEROSPACE",
+    "Keywords":"Aircraft Design"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr KC Wong",
+    "Title":"Dr",
+    "FirstName":"KC",
+    "Surname":"Wong",
+    "Discipline":"AEROSPACE",
+    "Keywords":"Aircraft Design"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Doug Auld",
+    "Title":"Dr",
+    "FirstName":"Doug",
+    "Surname":"Auld",
+    "Discipline":"SPACE",
+    "Keywords":"Space Engineering Research"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Salah Sukkarieh",
+    "Title":"Prof",
+    "FirstName":"Salah",
+    "Surname":"Sukkarieh",
+    "Discipline":"SPACE",
+    "Keywords":"Space Engineering, UAV systems, Field robotics, ag robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Xiaofeng Wu",
+    "Title":"Dr",
+    "FirstName":"Xiaofeng",
+    "Surname":"Wu",
+    "Discipline":"SPACE",
+    "Keywords":"System-on-Chip/VLSI Design for High-Performance Computing On-board Spacecraft"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Philip Boughton",
+    "Title":"Dr",
+    "FirstName":"Philip",
+    "Surname":"Boughton",
+    "Discipline":"BIOMEDICAL",
+    "Keywords":"Biomedical Engineering and Device Development"
+  },
+  {
+    "School":"AMME",
+    "Name":"A/Prof Colin Dunstan",
+    "Title":"A/Prof",
+    "FirstName":"Colin",
+    "Surname":"Dunstan",
+    "Discipline":"BIOMEDICAL",
+    "Keywords":"Biomaterials and Tissue Engineering"
+  },
+  {
+    "School":"AMME",
+    "Name":"A/Prof Qing Li",
+    "Title":"A/Prof",
+    "FirstName":"Qing",
+    "Surname":"Li",
+    "Discipline":"BIOMEDICAL",
+    "Keywords":"Design of Metamaterials"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Andrew Ruys",
+    "Title":"Prof",
+    "FirstName":"Andrew",
+    "Surname":"Ruys",
+    "Discipline":"BIOMEDICAL",
+    "Keywords":"Bioceramics"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Hala Zreiqat",
+    "Title":"Prof",
+    "FirstName":"Hala",
+    "Surname":"Zreiqat",
+    "Discipline":"BIOMEDICAL",
+    "Keywords":"Tissue Engineering and Biomaterials Research"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Rodney Fiford",
+    "Title":"Dr",
+    "FirstName":"Rodney",
+    "Surname":"Fiford",
+    "Discipline":"MECHANICAL - DESIGN & SUSTAINABILITY",
+    "Keywords":"FSAE, Mechanical Design and Sustainability"
+  },
+  {
+    "School":"AMME",
+    "Name":"Mr Paul Briozzo",
+    "Title":"Mr",
+    "FirstName":"Paul",
+    "Surname":"Briozzo",
+    "Discipline":"MECHANICAL - DESIGN & MANUFACTURING",
+    "Keywords":"Machine Design, Crashworthiness, Rapid Prototyping, CNC Machining"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Li Chang",
+    "Title":"Dr",
+    "FirstName":"Li",
+    "Surname":"Chang",
+    "Discipline":"MECHANICAL - MANUFACTURING",
+    "Keywords":"Precision manufacturing"
+  },
+  {
+    "School":"AMME",
+    "Name":"A/Prof Julie Cairney",
+    "Title":"A/Prof",
+    "FirstName":"Julie",
+    "Surname":"Cairney",
+    "Discipline":"MECHANICAL - MATERIALS & STRUCTURES",
+    "Keywords":"Materials & Structures "
+  },
+  {
+    "School":"AMME",
+    "Name":"A/Prof Xiaozhou Liao",
+    "Title":"A/Prof",
+    "FirstName":"Xiaozhou",
+    "Surname":"Liao",
+    "Discipline":"MECHANICAL - MATERIALS & STRUCTURES",
+    "Keywords":"Transmission Electron Microscopy"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Yiu-Wing Mai",
+    "Title":"Prof",
+    "FirstName":"Yiu-Wing",
+    "Surname":"Mai",
+    "Discipline":"MECHANICAL - MATERIALS & STRUCTURES",
+    "Keywords":"Smart materials, eco-materials and biomimetics"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Lin Ye",
+    "Title":"Prof",
+    "FirstName":"Lin",
+    "Surname":"Ye",
+    "Discipline":"MECHANICAL - MATERIALS & STRUCTURES",
+    "Keywords":"Composites science and technology"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Simon Ringer",
+    "Title":"Prof",
+    "FirstName":"Simon",
+    "Surname":"Ringer",
+    "Discipline":"MECHANICAL - MATERIALS & STRUCTURES",
+    "Keywords":"Microscopy & Microanalysis"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Steve Armfield",
+    "Title":"Prof",
+    "FirstName":"Steve",
+    "Surname":"Armfield",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Computational Fluid Dynamics"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Masud Behnia",
+    "Title":"Prof",
+    "FirstName":"Masud",
+    "Surname":"Behnia",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Thermodynamics & Fluids "
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Matthew Cleary",
+    "Title":"Dr",
+    "FirstName":"Matthew",
+    "Surname":"Cleary",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Turbulent combustion simulation"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Matthew Dunn",
+    "Title":"Dr",
+    "FirstName":"Matthew",
+    "Surname":"Dunn",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Combustion and numerical computation of thermofluid flows"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof John Kent",
+    "Title":"Prof",
+    "FirstName":"John",
+    "Surname":"Kent",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Thermo-fluids"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Michael Kirkpatrick",
+    "Title":"Dr",
+    "FirstName":"Michael",
+    "Surname":"Kirkpatrick",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Environmental Fluid Dynamics"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Assaad Masri",
+    "Title":"Prof",
+    "FirstName":"Assaad",
+    "Surname":"Masri",
+    "Discipline":"MECHANICAL - THERMODYNAMICS & FLUIDS",
+    "Keywords":"Lifted Flames"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Ahmad Jabbarzadeh",
+    "Title":"Dr",
+    "FirstName":"Ahmad",
+    "Surname":"Jabbarzadeh",
+    "Discipline":"MECHANICAL - \nRHEOLOGY",
+    "Keywords":"Nano-Rheology and Nano-Tribology"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Roger Taner",
+    "Title":"Prof",
+    "FirstName":"Roger",
+    "Surname":"Taner",
+    "Discipline":"MECHANICAL -\nRHEOLOGY",
+    "Keywords":"Polymer processing"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Graham Brooker",
+    "Title":"Dr",
+    "FirstName":"Graham",
+    "Surname":"Brooker",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Ian Manchester",
+    "Title":"Dr",
+    "FirstName":"Ian",
+    "Surname":"Manchester",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Eduardo Nebot",
+    "Title":"Prof",
+    "FirstName":"Eduardo",
+    "Surname":"Nebot",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"A/Prof David Rye",
+    "Title":"A/Prof",
+    "FirstName":"David",
+    "Surname":"Rye",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Steve Scheding",
+    "Title":"Dr",
+    "FirstName":"Steve",
+    "Surname":"Scheding",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Prof Salah Sukkarieh",
+    "Title":"Prof",
+    "FirstName":"Salah",
+    "Surname":"Sukkarieh",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Space Engineering, UAV systems, Field robotics and intelligent systems"
+  },
+  {
+    "School":"AMME",
+    "Name":"Dr Stefan Williams",
+    "Title":"Dr",
+    "FirstName":"Stefan",
+    "Surname":"Williams",
+    "Discipline":"ROBOTICS RESEARCH",
+    "Keywords":"Field robotics and intelligent systems"
+  }
+]
