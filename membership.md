@@ -45,9 +45,9 @@ To hear about workshops you might be interested in:
 
 <p align="center" style="text-align:center; font-weight:bold;"> <span class="click-here"><a href="http://goo.gl/forms/MtVJsYBqod" target="_blank"> >> Sign up to the Mailing List << </a> </span></p>
 
-To sign on as a member, show up to a workshop or one of our regular events, fill out **[this form](docs/membership-form.pdf)**, and show us your student ID card. Currently membership is free and you don't need an access card!
+To sign on as a member, show up to a workshop or one of our regular events, fill out **[this form](/docs/membership-form.pdf)**, and show us your student ID card. Currently membership is free and you don't need an access card!
 
-<!-- To be eligible as a full member:
+To be eligible as a full member:
 
 * you must be a Sydney Uni student, alumni staff member^. 
 * you must be present at a club event (_see [events][Events]), or [contact us][Contact] to meet with one of our administrators, and 
