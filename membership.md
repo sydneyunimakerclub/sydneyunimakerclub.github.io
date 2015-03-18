@@ -50,7 +50,7 @@ To sign on as a member, show up to a workshop or one of our regular events, fill
 To be eligible as a full member:
 
 * you must be a Sydney Uni student, alumni staff member^. 
-* you must be present at a club event, or **[contact us][Contact]** to meet with one of our administrators, and 
+* you must be present at a club event, or **[contact us](/contact-us.html)** to meet with one of our administrators, and 
 * show your student, alumni or staff card
 * pay any associated fees with membership (As our opening offer, memberships in the first year are **FREE**)
 
@@ -60,4 +60,3 @@ To be eligible as a full member:
 
   _^Non-staff or students are still able to attend the workshops at a non-member rate, however due to security and WHS policies that are in place, we cannot offer membership benefits to non-university staff or students._
 
-[Contact]: "/contact-us.html"
