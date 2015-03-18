@@ -12,4 +12,4 @@ Starting in February 2015, the Maker Club was developed and aimed to foster the 
 
 We fund ourselves through donations and project sponsors to make such resources affordable for our student members.
 
-You can find our constitution (accepted 13/03/2015) [here](/docs/Constitution.pdf)
+You can find our constitution (accepted 13/03/2015) **[here](/docs/Constitution.pdf)**
