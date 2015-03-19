@@ -48,6 +48,11 @@ $palette-6:		#6b376b;
 }
 
 
+@media screen and (max-width: 1200px) {
+    div.social-media {
+        display: none;
+    }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

@@ -270,6 +270,22 @@
     }
 }
 
+@media screen and (max-width: 1200px) {
+    .post-heading:nth-of-type(odd){
+        //right:-20;
+        h1{
+            right: 0px;
+        }
+    }
+
+    .post-heading:nth-of-type(even){
+        //left:20;
+        h1{
+            left: 0px;
+        }
+    }
+}
+
 .post-heading:nth-of-type(6n+1){
     span {
         background: $palette-1;
@@ -347,6 +363,22 @@
     h1{
         text-align: left;
         left: -55px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .post-list li:nth-of-type(odd){
+        //right:-20;
+        h1{
+            right: 0px;
+        }
+    }
+
+    .post-list li:nth-of-type(even){
+        //left:20;
+        h1{
+            left: 0px;
+        }
     }
 }
 
