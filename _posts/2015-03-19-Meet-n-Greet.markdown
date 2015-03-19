@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "IGM Date Announced"
-date:   2015-03-03
+title:  "Meet N Greet"
+date:   2015-03-19
 categories: Announcements
 published: true
 ---
