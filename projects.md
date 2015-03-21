@@ -18,7 +18,7 @@ Some Possible Projects
 
 Everyone loves pancakes! Lets make something to make them for us. The END!!!
 
-<b>Makerclub site dev - Project Master: Calla Klafus</b>
+<b>Makerclub site dev - Project Master: Calla Klafas</b>
 
 We have a website who wants to help make it better?
 
