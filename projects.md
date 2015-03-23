@@ -19,7 +19,7 @@ Some Possible Projects
 We are going to try make something for vivid festival to be displayed in usyd.
 
 {% if site.projects_form %}
-<a href="https://{{ site.projects_form }}pancakes">
+<a href="https://{{ site.projects_form }}vivid">
   Join the group
 </a>
 {% endif %}
