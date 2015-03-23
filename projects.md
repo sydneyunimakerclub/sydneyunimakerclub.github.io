@@ -20,7 +20,7 @@ We are going to try make something for vivid festival to be displayed in usyd.
 
 {% if site.projects_form %}
 <a href="https://{{ site.projects_form }}vivid">
-  Join the group
+<font color="blue">Join the group</font>
 </a>
 {% endif %}
 
@@ -30,7 +30,7 @@ We have a website who wants to help make it better?
 
 {% if site.projects_form %}
 <a href="https://{{ site.projects_form }}sitedev">
-  Join the group
+<font color="blue">Join the group</font>
 </a>
 {% endif %}
 
@@ -40,7 +40,7 @@ A. Prof. Philip Leong would like to send a kayak from sydney harbour to wollongo
 
 {% if site.projects_form %}
 <a href="https://{{ site.projects_form }}kayak">
-  Join the group
+<font color="blue">Join the group</font>
 </a>
 {% endif %}
 
