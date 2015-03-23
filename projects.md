@@ -24,7 +24,7 @@ We are going to try make something for vivid festival to be displayed in usyd.
 </a>
 {% endif %}
 
-<b>Makerclub site dev - Project Master: Calla Klafus</b>
+<b>Makerclub site dev - Project Master: Calla Klafas</b>
 
 We have a website who wants to help make it better?
 
