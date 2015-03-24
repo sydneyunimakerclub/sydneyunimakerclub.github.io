@@ -10,5 +10,8 @@ url: "http://www.sydneyunimaker.club" # the base hostname & protocol for your si
 twitter_username: SUMakerClub
 github_username:  sydneyunimakerclub
 facebook_page: groups/sydneyunimakerclub
+
+projects_form: docs.google.com/forms/d/1xQU0LtNIlZPai4mN4qL6O41b_ENzGL7D65XxobvG5sQ/viewform?entry.855382719=
+
 # Build settings
 markdown: kramdown

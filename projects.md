@@ -14,15 +14,34 @@ To propose a project we will have a board of <b>The Good, The Bad and The Ugly</
 Some Possible Projects
 =====================
 
-<b>Student Feeding device - Project Master: Stephen Tridgell</b>
+<b>Vivid festival - Project Master: Stephen Tridgell</b>
 
-Everyone loves pancakes! Lets make something to make them for us. The END!!!
+We are going to try make something for vivid festival to be displayed in usyd.
+
+{% if site.projects_form %}
+<a href="https://{{ site.projects_form }}vivid">
+<font color="blue">Join the group</font>
+</a>
+{% endif %}
 
 <b>Makerclub site dev - Project Master: Calla Klafas</b>
 
 We have a website who wants to help make it better?
 
+{% if site.projects_form %}
+<a href="https://{{ site.projects_form }}sitedev">
+<font color="blue">Join the group</font>
+</a>
+{% endif %}
+
 <b>Kayak to the gong - Project Master: Stephen Tridgell</b>
 
-A. Prof. Philip Leong would like to send a kayak from sydney harbour to wollengong by itself! This project would possibly be funded by the uni.
+A. Prof. Philip Leong would like to send a kayak from sydney harbour to wollongong by itself! This project would possibly be funded by the uni.
+
+{% if site.projects_form %}
+<a href="https://{{ site.projects_form }}kayak">
+<font color="blue">Join the group</font>
+</a>
+{% endif %}
+
 
