@@ -25,7 +25,6 @@ Kit Lending
 ===========
 Like libraries lend out books, for a full-refundable deposit, you can borrow our Arduino kits for you to play and tinker with at home in your own time. 
 
-
 Weekly Meetups
 ==============
 Always wanted to get started on a project, but don't know who to bounce your ideas off? Perhaps you're already working on something but just need that space to work in and gather some feedback. Our weekly meetups are held in the Sydney Invention Studio once a week, to chill, socialise, and use time for
@@ -52,11 +51,10 @@ To be eligible as a full member:
 * you must be a Sydney Uni student, alumni staff member^. 
 * you must be present at a club event, or **[contact us](/contact-us.html)** to meet with one of our administrators, and 
 * show your student, alumni or staff card
+* Attend an OH&S briefing run by Paul Burrell
 * pay any associated fees with membership (As our opening offer, memberships in the first year are **FREE**)
 
-
-
-
+<b>NOTE:</b> After attending the OH&S briefing, please ask Paul for a photocopy of the form with his signature. We need this to verify that you have been inducted so that you can get access to the Sydney Invention Studio.
 
   _^Non-staff or students are still able to attend the workshops at a non-member rate, however due to security and WHS policies that are in place, we cannot offer membership benefits to non-university staff or students._
 
