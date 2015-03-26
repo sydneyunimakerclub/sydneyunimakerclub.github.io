@@ -14,4 +14,3 @@ To sign-up for updates, subscribe to one of the following:
 * [Twitter: @SUMakerClub](http://www.twitter.com/SUMakerClub)
 * [Facebook Group: groups/sydneyunimakerclub](http://www.facebook.com/groups/sydneyunimakerclub)
 
-Catch us at our stall on the Engineering Lawns (across from the PNR Building), Darlington Campus, on **Wed 25th February '15** if you prefer to come say hi and have a chat.
