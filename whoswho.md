@@ -11,7 +11,7 @@ This page is designed to be a resource for maker club members. The university ha
 Maker Club Exec
 ===============
 
-<b>Calla Klafus</b> - President of Sydney Uni Maker Club
+<b>Calla Klafas</b> - President of Sydney Uni Maker Club
 
 <b>Michael Fretchling</b> - Vice President of Sydney Uni Maker Club
 
