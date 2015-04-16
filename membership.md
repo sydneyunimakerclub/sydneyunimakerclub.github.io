@@ -51,7 +51,7 @@ To be eligible as a full member:
 * you must be a Sydney Uni student, alumni staff member^. 
 * you must be present at a club event, or **[contact us](/contact-us.html)** to meet with one of our administrators, and 
 * show your student, alumni or staff card
-* Attend an OH&S briefing run by Paul Burrell
+* Attend an OH&S briefing run by Paul Burrell (email paul.burrell@sydney.edu.au for details)
 * pay any associated fees with membership (As our opening offer, memberships in the first year are **FREE**)
 
 <b>NOTE:</b> After attending the OH&S briefing, please ask Paul for a photocopy of the form with his signature. We need this to verify that you have been inducted so that you can get access to the Sydney Invention Studio.
