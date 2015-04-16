@@ -38,9 +38,9 @@
         font-weight: 500;
         text-align: justify;
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
+        //&:not(:first-child) {
             margin-left: 20px;
-        }
+        //}
     }
 
     @include media-query($on-palm) {
@@ -51,6 +51,7 @@
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         //text-align: right;
+	z-index: 50;
 
         .menu-icon {
             display: block;
@@ -83,6 +84,7 @@
         }
 
         .page-link {
+            color: #000;
             display: block;
             padding: 5px 10px;
         }
