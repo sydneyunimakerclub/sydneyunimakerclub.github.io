@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "School STEM Arduino Challenge: MadMaker"
+date:   2015-07-01
+categories: Announcements
+published: true
+---
+
+Providing a new way to introduce STEM into the classroom is a national program partially funded by the Australian Government Department of Education and Training through the Australian Maths and Science Partnerships Program and  developed by the University of Sydney's LATTE group,
+
+*MadMaker* is a 6-week online course aimed at Year 9 students with a goal to educate them about embedded systems and their use in everyday life. It involves using Arduino Esplora boards to investigate fun and interactive ways to use science, technology, engineering and maths to solve real-world problems. The course will run in Term 4, 2015. The content will still be available online afterwards if this time bracket does not fit with your class schedule.
+
+To find out more, visit their official website [www.madmaker.com.au](http://www.madmaker.com.au)
