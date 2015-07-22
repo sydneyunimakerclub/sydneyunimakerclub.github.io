@@ -13,8 +13,6 @@ Maker Club Exec
 
 <b>Calla Klafas</b> - President of Sydney Uni Maker Club
 
-<b>Michael Fretchling</b> - Vice President of Sydney Uni Maker Club
-
 <b>Stephen Tridgell</b> - Treasurer of Sydney Uni Maker Club
 
 <b>Kye Ridley-Smith</b> - Secretary of Sydney Uni Maker Club
